@@ -12,7 +12,7 @@
 auto __stdcall main() -> int
 {
     std::string info = "Systems analysis and development";
-    std::string langs[4] = {"C" , "C++", "Python"};
+    std::string langs[3] = {"C" , "C++", "Python"};
 
     // i hate kernel and python so much ^-^
 
