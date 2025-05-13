@@ -39,5 +39,4 @@ auto __stdcall main() -> int
 # Contact
 - 📧 **Email**: [fgabrielvpq@gmail.com](mailto:fgabrielvpq@gmail.com)
 - 💬 **Discord**: [@vq1pb](https://discordapp.com/users/1161007366456737853)  
-- 📱 **WhatsApp**: [+55 11 99999-9999](https://wa.me/5511999999999)  
 ```
