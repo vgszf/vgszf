@@ -1,6 +1,6 @@
-
 # Technologies
-<img align="right" src="https://tenor.com/view/sleepy-sleeping-sleepy-dog-perritodormido-dormido-gif-16542296809354104671">
+<img align="right" src="https://media.tenor.com/gYvGosGk7c8AAAAM/sleepy-sleeping.gif" width="200">
+
 <div align="left">
     <div>
       <img alt="C" src="https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c">
@@ -10,8 +10,7 @@
       <img alt="GitHub" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github">
     </div>
     <hr height="1">
-  </div>
+</div>
 
 # Contact
 - 💬 **Discord**: [@vq1pb](https://discordapp.com/users/1161007366456737853)  
-```
