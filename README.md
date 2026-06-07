@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.tenor.com/gYvGosGk7c8AAAAM/sleepy-sleeping.gif" width="200">
 
-### 💻 About Me
+## 💻 About Me
 
 - C++ Developer
 - Windows Internals Researcher
@@ -10,38 +10,50 @@
 - Reverse Engineering
 - Learning System Security & Low-Level Programming
 
-### 🚀 Featured Project
+---
 
-[![Fortnite Temporary Spoofer](https://github-readme-stats.vercel.app/api/pin/?username=vgszf&repo=fortnite-temporary-spoofer&theme=dark)](https://github.com/vgszf/fortnite-temporary-spoofer)
+## 🚀 Featured Project
 
-Temporary hardware spoofing research project focused on:
+<a href="https://github.com/vgszf/fortnite-temporary-spoofer">
+  <img src="https://img.shields.io/badge/Fortnite_Temporary_Spoofer-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+**Temporary hardware spoofing research project focused on:**
+
 - SMBIOS modification
 - Disk serial modification
 - Windows kernel development
-- Pattern scanning & reverse engineering
+- Pattern scanning
+- Reverse engineering
 
 ---
 
 ## 🛠 Technologies
 
-<img alt="C++" src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus">
-<img alt="Windows Kernel" src="https://img.shields.io/badge/Kernel_Mode-000000?style=for-the-badge&logo=windows">
-<img alt="Reverse Engineering" src="https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge">
-<img alt="Windows" src="https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows">
-<img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github">
-
----
-
-## 📊 GitHub Stats
-
 <p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vgszf&show_icons=true&theme=dark">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vgszf&layout=compact&theme=dark">
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Kernel_Mode-000000?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows_Internals-000000?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Reverse_Engineering-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Low_Level-000000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 ---
 
-## 📫 Contact
+## 📚 Current Focus
 
-- 💬 Discord: **@vq1pb**
+<p>
+  <img src="https://img.shields.io/badge/Windows_Kernel-111111?style=flat-square&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/C++_Development-111111?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Reverse_Engineering-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/Pattern_Scanning-111111?style=flat-square">
+  <img src="https://img.shields.io/badge/System_Security-111111?style=flat-square">
+</p>
+
+```txt
+> studying windows internals
+> building low-level projects
+> researching kernel-mode development
+> improving reverse engineering skills
